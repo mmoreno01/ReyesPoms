@@ -1,94 +1,79 @@
-
-#cont_principal{
-    background-color: beige;
-    width: 100%;
-    height: 600px;
-}
-
+#cont_principal {
+  background-color: beige;
+  width: 100%;
+  height: 600px; }
 
 /* estilo en servicios */
-.services{
-font-size: 80px;
-text-align: center;
-border:2px solid red;
-border-radius:50%;
-padding: 10px 20px;
-}
+.services {
+  font-size: 80px;
+  text-align: center;
+  border: 2px solid red;
+  border-radius: 50%;
+  padding: 10px 20px; }
 
-.cicle{
-    border:1px solid red;
-}
+.cicle {
+  border: 1px solid red; }
 
-.incons{
-    text-align: center;
-}
+.incons {
+  text-align: center; }
 
-.incons p{
-    margin: 10px 20px;
-}
+.incons p {
+  margin: 10px 20px; }
 
 /* Estilo del contenedor principal */
-#cont_general{
-    padding:30px 50px;
-}
+#cont_general {
+  padding: 30px 50px; }
 
-#entrenamiento{
-    background-color: beige;
-    padding: 40px 20px;
-}
+#entrenamiento {
+  background-color: beige;
+  padding: 40px 20px; }
 
-#entrenamiento h2{
-    font-size: 20px;
-    text-align: center;
-}
+#entrenamiento h2 {
+  font-size: 20px;
+  text-align: center; }
 
-#manejo_pista{
-    padding: 40px 20px;
-}
+#manejo_pista {
+  padding: 40px 20px; }
 
-#manejo_pista h2{
-    font-size: 20px;
-    text-align: center;
-}
+#manejo_pista h2 {
+  font-size: 20px;
+  text-align: center; }
 
-#estetic_prof{
-    background-color: beige;
-    padding: 40px 20px;
-}
-#estetic_prof h2{
-    font-size: 20px;
-    text-align: center;}
+#estetic_prof {
+  background-color: beige;
+  padding: 40px 20px; }
 
+#estetic_prof h2 {
+  font-size: 20px;
+  text-align: center; }
 
 #img1.galeria1 {
-    background-image: url(/imagenes/estetica/1.jpg);
-}
+  background-image: url(/imagenes/estetica/1.jpg); }
 
 .servicios-holders {
-    width: 100%;
-    height: 320px;
-    margin: 20px 0;
-    background-position: center;
-    background-size: cover;
-    position: relative;
-    overflow: hidden;
-}
+  width: 100%;
+  height: 320px;
+  margin: 20px 0;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  overflow: hidden; }
 
 /* estilo del footrer */
 footer {
-    background: #52565b;
-    padding: 30px 15px;
-    color: #fff;
-}
+  background: #52565b;
+  padding: 30px 15px;
+  color: #fff; }
 
-.redSocial{
-    font-size: 30px;
-    margin: 0px 10px;
-}
-.cont_social{
-    text-align: center;
-    margin: 0 auto;
-}
-.DercResev{
-    text-align: center;
-}
+.redSocial {
+  font-size: 30px;
+  margin: 0px 10px; }
+
+.cont_social {
+  text-align: center;
+  margin: 0 auto; }
+
+.DercResev {
+  text-align: center; }
+
+/*# sourceMappingURL=style.css.map */
